@@ -1,0 +1,21 @@
+body {
+  padding-top: 10rem;
+  height: 600px;
+  text-align: center;
+  border: 1px solid green;
+}
+
+.container {
+  /* display: flex; */
+  margin-bottom: 5rem;
+}
+
+input {
+  /* border: 1px solid red; */
+  font-weight: 300;
+}
+
+progress {
+  width: 40rem;
+  /* border: 1px solid red; */
+}
